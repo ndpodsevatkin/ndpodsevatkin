@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndpodsevatkin
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 
